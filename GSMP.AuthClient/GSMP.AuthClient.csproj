@@ -5,9 +5,10 @@
 		<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
 		<LangVersion>10</LangVersion>
 		<Description>Test privete NuGet server</Description>
+		<Version>1.2.8</Version>
 		<PackageTags>auth</PackageTags>
-		<AssemblyVersion>1.0.2.1</AssemblyVersion>
-		<FileVersion>1.0.2.1</FileVersion>
+		<AssemblyVersion>$(Version)</AssemblyVersion>
+		<FileVersion>$(Version)</FileVersion>
 		<Authors>ManageGo</Authors>
 	</PropertyGroup>
 
