@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GSMP.AuthClient", "GSMP.AuthClient\GSMP.AuthClient.csproj", "{BFA102F8-3AFC-40F9-8922-70E4A277EED3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GSMP.Telemetry", "GSMP.Telemetry\GSMP.Telemetry.csproj", "{10B8A6CA-521F-4655-905C-2B4F261B319F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GSMP.Tools", "GSMP.Tools\GSMP.Tools.csproj", "{D4276A07-3303-4B48-82CF-784E8BC1FB06}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GSMP.Utilities", "GSMP.Utilities\GSMP.Utilities.csproj", "{AB294821-882A-42A8-9F7A-2CCEFF56AC75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA102F8-3AFC-40F9-8922-70E4A277EED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA102F8-3AFC-40F9-8922-70E4A277EED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA102F8-3AFC-40F9-8922-70E4A277EED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA102F8-3AFC-40F9-8922-70E4A277EED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B8A6CA-521F-4655-905C-2B4F261B319F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B8A6CA-521F-4655-905C-2B4F261B319F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B8A6CA-521F-4655-905C-2B4F261B319F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B8A6CA-521F-4655-905C-2B4F261B319F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4276A07-3303-4B48-82CF-784E8BC1FB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4276A07-3303-4B48-82CF-784E8BC1FB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4276A07-3303-4B48-82CF-784E8BC1FB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4276A07-3303-4B48-82CF-784E8BC1FB06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB294821-882A-42A8-9F7A-2CCEFF56AC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB294821-882A-42A8-9F7A-2CCEFF56AC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB294821-882A-42A8-9F7A-2CCEFF56AC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB294821-882A-42A8-9F7A-2CCEFF56AC75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAC05E70-B913-434F-BD60-5F1D0EF4B5B5}
+	EndGlobalSection
+EndGlobal

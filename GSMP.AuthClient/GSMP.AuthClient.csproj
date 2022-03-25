@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+		<LangVersion>10</LangVersion>
+		<Description>Test privete NuGet server</Description>
+		<PackageTags>auth</PackageTags>
+		<AssemblyVersion>1.0.2.1</AssemblyVersion>
+		<FileVersion>1.0.2.1</FileVersion>
+		<Authors>ManageGo</Authors>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="IdentityModel" Version="6.0.0" />
+	</ItemGroup>
+
+</Project>
